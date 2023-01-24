@@ -177,6 +177,7 @@ body {
 }
 .street-footer {
   display: block;
+  width: 246px;
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
