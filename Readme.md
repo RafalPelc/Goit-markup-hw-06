@@ -1,1 +1,1 @@
-https://rafalpelc.github.io/Goit-markup-hw-05/
+https://rafalpelc.github.io/Goit-markup-hw-06/
