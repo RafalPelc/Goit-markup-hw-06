@@ -595,6 +595,10 @@ a.social-item:focus svg {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-delay: 0;
 }
+.button-submit:hover,
+.button-submit:focus {
+  transform: scale(1.1);
+}
 .icon-send {
   position: absolute;
   top: 13px;
